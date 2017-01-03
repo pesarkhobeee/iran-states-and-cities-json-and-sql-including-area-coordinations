@@ -1,0 +1,1883 @@
+[
+  {
+    name: آذربايجان شرقي
+    cities:
+    [
+      {
+        name: تبريز
+        latitude: "38.50"
+        longitude: "46.180"
+      }
+      {
+        name: مراغه
+        latitude: "37.2335"
+        longitude: "46.1439"
+      }
+      {
+        name: ميانه
+        latitude: "37.230"
+        longitude: "47.450"
+      }
+      {
+        name: شبستر
+        latitude: "38.1048"
+        longitude: "45.429"
+      }
+      {
+        name: مرند
+        latitude: "38.260"
+        longitude: "45.470"
+      }
+      {
+        name: جلفا
+        latitude: "38.5622"
+        longitude: "45.3732"
+      }
+      {
+        name: سراب
+        latitude: "37.5629"
+        longitude: "47.3210"
+      }
+      {
+        name: هاديشهر
+        latitude: "38.510"
+        longitude: "45.400"
+      }
+      {
+        name: بناب
+        latitude: "38.260"
+        longitude: "45.550"
+      }
+      {
+        name: تسوج
+        latitude: "38.1854"
+        longitude: "45.2136"
+      }
+      {
+        name: اهر
+        latitude: "38.2839"
+        longitude: "47.412"
+      }
+      {
+        name: هريس
+        latitude: "38.1445"
+        longitude: "47.659"
+      }
+      {
+        name: هشترود
+        latitude: "37.2849"
+        longitude: "47.257"
+      }
+      {
+        name: ملكان
+        latitude: "37.839"
+        longitude: "46.612"
+      }
+      {
+        name: بستان آباد
+        latitude: "37.5044"
+        longitude: "46.4951"
+      }
+      {
+        name: ورزقان
+        latitude: "38.3048"
+        longitude: "46.3931"
+      }
+      {
+        name: اسكو
+        latitude: "37.5458"
+        longitude: "46.724"
+      }
+      {
+        name: ممقان
+        latitude: "37.5045"
+        longitude: "45.5819"
+      }
+      {
+        name: صوفیان
+        latitude: "45.98"
+        longitude: "38.276"
+      }
+      {
+        name: ایلخچی
+        latitude: "45.98"
+        longitude: "37.939"
+      }
+      {
+        name: خسروشهر
+        latitude: "46.051"
+        longitude: "37.951"
+      }
+      {
+        name: باسمنج
+        latitude: "46.492"
+        longitude: "37.984"
+      }
+      {
+        name: سهند
+        latitude: "37.5640"
+        longitude: "46.74"
+      }
+    ]
+  }
+  {
+    name: آذربايجان غربي
+    cities:
+    [
+      {
+        name: اروميه
+        latitude: "37.320"
+        longitude: "45.40"
+      }
+      {
+        name: نقده
+        latitude: "36.5719"
+        longitude: "45.2332"
+      }
+      {
+        name: ماكو
+        latitude: "39.1734"
+        longitude: "44.3040"
+      }
+      {
+        name: تكاب
+        latitude: "36.2353"
+        longitude: "47.76"
+      }
+      {
+        name: خوي
+        latitude: "38.330"
+        longitude: "44.570"
+      }
+      {
+        name: مهاباد
+        latitude: "36.450"
+        longitude: "45.430"
+      }
+      {
+        name: سر دشت
+        latitude: "30.200"
+        longitude: "50.130"
+      }
+      {
+        name: چالدران
+        latitude: "39.358"
+        longitude: "44.2312"
+      }
+      {
+        name: بوكان
+        latitude: "36.3115"
+        longitude: "46.1226"
+      }
+      {
+        name: مياندوآب
+        latitude: "36.586"
+        longitude: "46.612"
+      }
+      {
+        name: سلماس
+        latitude: "38.120"
+        longitude: "44.460"
+      }
+      {
+        name: شاهين دژ
+        latitude: "36.400"
+        longitude: "46.340"
+      }
+      {
+        name: پيرانشهر
+        latitude: "36.4146"
+        longitude: "45.831"
+      }
+      {
+        name: اشنويه
+        latitude: "37.30"
+        longitude: "45.70"
+      }
+      {
+        name: پلدشت
+        latitude: "39.2026"
+        longitude: "45.357"
+      }
+    ]
+  }
+  {
+    name: اردبيل
+    cities:
+    [
+      {
+        name: اردبيل
+        latitude: "38.140"
+        longitude: "48.170"
+      }
+      {
+        name: پارس آباد
+        latitude: "39.3827"
+        longitude: "47.5423"
+      }
+      {
+        name: خلخال
+        latitude: "37.3732"
+        longitude: "48.3124"
+      }
+      {
+        name: مشگين شهر
+        latitude: "38.240"
+        longitude: "47.390"
+      }
+      {
+        name: نمين
+        latitude: "38.250"
+        longitude: "48.290"
+      }
+      {
+        name: نير
+        latitude: "37.159"
+        longitude: "47.5954"
+      }
+      {
+        name: گرمي
+        latitude: "39.116"
+        longitude: "48.449"
+      }
+    ]
+  }
+  {
+    name: اصفهان
+    cities:
+    [
+      {
+        name: اصفهان
+        latitude: "32.390"
+        longitude: "51.400"
+      }
+      {
+        name: فلاورجان
+        latitude: "32.3332"
+        longitude: "51.3037"
+      }
+      {
+        name: گلپايگان
+        latitude: "33.270"
+        longitude: "50.170"
+      }
+      {
+        name: دهاقان
+        latitude: "31.560"
+        longitude: "51.390"
+      }
+      {
+        name: نطنز
+        latitude: "33.3049"
+        longitude: "51.5455"
+      }
+      {
+        name: تيران
+        latitude: "32.420"
+        longitude: "51.90"
+      }
+      {
+        name: كاشان
+        latitude: "33.590"
+        longitude: "51.350"
+      }
+      {
+        name: اردستان
+        latitude: "33.2228"
+        longitude: "52.2157"
+      }
+      {
+        name: سميرم
+        latitude: "31.250"
+        longitude: "51.340"
+      }
+      {
+        name: درچه
+        latitude: "32.3647"
+        longitude: "51.3311"
+      }
+      {
+        name: کوهپایه
+        latitude: "32.436"
+        longitude: "52.2618"
+      }
+      {
+        name: مباركه
+        latitude: "29.540"
+        longitude: "54.270"
+      }
+      {
+        name: شهرضا
+        latitude: "31.5952"
+        longitude: "51.5129"
+      }
+      {
+        name: خميني شهر
+        latitude: "32.410"
+        longitude: "51.320"
+      }
+      {
+        name: نجف آباد
+        latitude: "32.380"
+        longitude: "51.230"
+      }
+      {
+        name: زرين شهر
+        latitude: "32.2346"
+        longitude: "51.2248"
+      }
+      {
+        name: آران و بيدگل
+        latitude: "34.338"
+        longitude: "51.2847"
+      }
+      {
+        name: باغ بهادران
+        latitude: "51.19"
+        longitude: "32.376"
+      }
+      {
+        name: خوانسار
+        latitude: "33.130"
+        longitude: "50.190"
+      }
+      {
+        name: علويجه
+        latitude: "33.321"
+        longitude: "51.51"
+      }
+      {
+        name: عسگران
+        latitude: "32.520"
+        longitude: "50.510"
+      }
+      {
+        name: حاجي آباد
+        latitude: "33.3622"
+        longitude: "59.5957"
+      }
+      {
+        name: تودشک
+        latitude: "32.4339"
+        longitude: "52.388"
+      }
+      {
+        name: ورزنه
+        latitude: "32.2458"
+        longitude: "52.3813"
+      }
+    ]
+  }
+  {
+    name: ايلام
+    cities:
+    [
+      {
+        name: ايلام
+        latitude: "33.380"
+        longitude: "46.250"
+      }
+      {
+        name: مهران
+        latitude: "33.70"
+        longitude: "46.100"
+      }
+      {
+        name: دهلران
+        latitude: "32.410"
+        longitude: "47.160"
+      }
+      {
+        name: آبدانان
+        latitude: "32.5930"
+        longitude: "47.2512"
+      }
+      {
+        name: دره شهر
+        latitude: "33.823"
+        longitude: "47.2233"
+      }
+      {
+        name: ايوان
+        latitude: "33.502"
+        longitude: "46.1833"
+      }
+      {
+        name: سرابله
+        latitude: "33.4611"
+        longitude: "46.3332"
+      }
+    ]
+  }
+  {
+    name: بوشهر
+    cities:
+    [
+      {
+        name: بوشهر
+        latitude: "28.590"
+        longitude: "50.500"
+      }
+      {
+        name: دير
+        latitude: "27.510"
+        longitude: "51.590"
+      }
+      {
+        name: كنگان
+        latitude: "27.500"
+        longitude: "52.40"
+      }
+      {
+        name: گناوه
+        latitude: "29.340"
+        longitude: "50.310"
+      }
+      {
+        name: خورموج
+        latitude: "51.38"
+        longitude: "28.655"
+      }
+      {
+        name: اهرم
+        latitude: "28.530"
+        longitude: "51.160"
+      }
+      {
+        name: برازجان
+        latitude: "29.160"
+        longitude: "51.120"
+      }
+      {
+        name: جم
+        latitude: "27.490"
+        longitude: "52.200"
+      }
+      {
+        name: کاکی
+        latitude: "28.200"
+        longitude: "51.310"
+      }
+      {
+        name: عسلویه
+        latitude: "27.2835"
+        longitude: "52.3650"
+      }
+    ]
+  }
+  {
+    name: تهران
+    cities:
+    [
+      {
+        name: تهران
+        latitude: "35.410"
+        longitude: "51.240"
+      }
+      {
+        name: ورامين
+        latitude: "35.200"
+        longitude: "51.380"
+      }
+      {
+        name: فيروزكوه
+        latitude: "35.450"
+        longitude: "52.460"
+      }
+      {
+        name: ري
+        latitude: "35.358"
+        longitude: "51.269"
+      }
+      {
+        name: دماوند
+        latitude: "35.430"
+        longitude: "52.40"
+      }
+      {
+        name: اسلامشهر
+        latitude: "51.232"
+        longitude: "35.552"
+      }
+      {
+        name: رودهن
+        latitude: "35.4412"
+        longitude: "51.5441"
+      }
+      {
+        name: لواسان
+        latitude: "51.783"
+        longitude: "35.825"
+      }
+      {
+        name: بومهن
+        latitude: "35.4347"
+        longitude: "51.5143"
+      }
+      {
+        name: تجريش
+        latitude: "35.4816"
+        longitude: "51.2532"
+      }
+      {
+        name: فشم
+        latitude: "51.526"
+        longitude: "35.931"
+      }
+      {
+        name: كهريزك
+        latitude: "35.3103"
+        longitude: "51.2135"
+      }
+      {
+        name: پاكدشت
+        latitude: "35.2854"
+        longitude: "51.4049"
+      }
+      {
+        name: چهاردانگه
+        latitude: "51.309"
+        longitude: "35.604"
+      }
+      {
+        name: شريف آباد
+        latitude: "35.2539"
+        longitude: "51.4707"
+      }
+      {
+        name: قرچك
+        latitude: "35.2610"
+        longitude: "51.3420"
+      }
+      {
+        name: باقرشهر
+        latitude: "35.3157"
+        longitude: "51.2409"
+      }
+      {
+        name: شهريار
+        latitude: "35.3927"
+        longitude: "51.335"
+      }
+      {
+        name: رباط كريم
+        latitude: "35.2843"
+        longitude: "51.449"
+      }
+      {
+        name: قدس
+        latitude: "35.4317"
+        longitude: "51.632"
+      }
+      {
+        name: ملارد
+        latitude: "35.3927"
+        longitude: "50.5835"
+      }
+    ]
+  }
+  {
+    name: چهارمحال بختياري
+    cities:
+    [
+      {
+        name: شهركرد
+        latitude: "32.190"
+        longitude: "50.510"
+      }
+      {
+        name: فارسان
+        latitude: "32.1527"
+        longitude: "50.3341"
+      }
+      {
+        name: بروجن
+        latitude: "31.580"
+        longitude: "51.170"
+      }
+      {
+        name: چلگرد
+        latitude: "50.138"
+        longitude: "32.462"
+      }
+      {
+        name: اردل
+        latitude: "31.5958"
+        longitude: "50.3935"
+      }
+      {
+        name: لردگان
+        latitude: "31.310"
+        longitude: "50.500"
+      }
+    ]
+  }
+  {
+    name: خراسان جنوبي
+    cities:
+    [
+      {
+        name: قائن
+        latitude: "33.430"
+        longitude: "59.60"
+      }
+      {
+        name: فردوس
+        latitude: "34.00"
+        longitude: "58.90"
+      }
+      {
+        name: بيرجند
+        latitude: "32.5216"
+        longitude: "59.1315"
+      }
+      {
+        name: نهبندان
+        latitude: "31.320"
+        longitude: "60.20"
+      }
+      {
+        name: سربيشه
+        latitude: "32.3432"
+        longitude: "59.4755"
+      }
+    ]
+  }
+  {
+    name: خراسان رضوي
+    cities:
+    [
+      {
+        name: مشهد
+        latitude: "36.170"
+        longitude: "59.350"
+      }
+      {
+        name: نيشابور
+        latitude: "36.130"
+        longitude: "58.490"
+      }
+      {
+        name: سبزوار
+        latitude: "36.130"
+        longitude: "57.400"
+      }
+      {
+        name: كاشمر
+        latitude: "35.144"
+        longitude: "58.2738"
+      }
+      {
+        name: گناباد
+        latitude: "34.2141"
+        longitude: "58.4157"
+      }
+      {
+        name: طبس
+        latitude: "33.370"
+        longitude: "56.540"
+      }
+      {
+        name: تربت حيدريه
+        latitude: "35.1627"
+        longitude: "59.139"
+      }
+      {
+        name: خواف
+        latitude: "34.320"
+        longitude: "60.50"
+      }
+      {
+        name: تربت جام
+        latitude: "35.160"
+        longitude: "60.360"
+      }
+      {
+        name: تايباد
+        latitude: "34.440"
+        longitude: "60.470"
+      }
+      {
+        name: قوچان
+        latitude: "37.40"
+        longitude: "58.320"
+      }
+      {
+        name: سرخس
+        latitude: "36.320"
+        longitude: "61.100"
+      }
+      {
+        name: فريمان
+        latitude: "35.460"
+        longitude: "59.490"
+      }
+      {
+        name: چناران
+        latitude: "59.121"
+        longitude: "36.642"
+      }
+      {
+        name: درگز
+        latitude: "37.2640"
+        longitude: "59.628"
+      }
+      {
+        name: طرقبه
+        latitude: "36.1837"
+        longitude: "59.2225"
+      }
+    ]
+  }
+  {
+    name: خراسان شمالي
+    cities:
+    [
+      {
+        name: بجنورد
+        latitude: "37.2835"
+        longitude: "57.1954"
+      }
+      {
+        name: اسفراين
+        latitude: "37.436"
+        longitude: "57.3035"
+      }
+      {
+        name: جاجرم
+        latitude: "36.573"
+        longitude: "56.2244"
+      }
+      {
+        name: شيروان
+        latitude: "33.340"
+        longitude: "46.520"
+      }
+      {
+        name: آشخانه
+        latitude: "37.3352"
+        longitude: "56.556"
+      }
+    ]
+  }
+  {
+    name: خوزستان
+    cities:
+    [
+      {
+        name: اهواز
+        latitude: "31.190"
+        longitude: "48.410"
+      }
+      {
+        name: ايرانشهر
+        latitude: "27.150"
+        longitude: "60.410"
+      }
+      {
+        name: شوش
+        latitude: "32.120"
+        longitude: "48.150"
+      }
+      {
+        name: آبادان
+        latitude: "30.2024"
+        longitude: "48.1814"
+      }
+      {
+        name: خرمشهر
+        latitude: "30.2539"
+        longitude: "48.118"
+      }
+      {
+        name: مسجد سليمان
+        latitude: "31.590"
+        longitude: "49.180"
+      }
+      {
+        name: ايذه
+        latitude: "31.500"
+        longitude: "49.520"
+      }
+      {
+        name: شوشتر
+        latitude: "32.30"
+        longitude: "48.510"
+      }
+      {
+        name: انديمشك
+        latitude: "32.270"
+        longitude: "48.200"
+      }
+      {
+        name: سوسنگرد
+        latitude: "31.400"
+        longitude: "48.60"
+      }
+      {
+        name: هويزه
+        latitude: "31.2740"
+        longitude: "48.428"
+      }
+      {
+        name: دزفول
+        latitude: "32.2255"
+        longitude: "48.2411"
+      }
+      {
+        name: شادگان
+        latitude: "30.390"
+        longitude: "48.400"
+      }
+      {
+        name: بندر ماهشهر
+        latitude: "30.340"
+        longitude: "49.100"
+      }
+      {
+        name: بندر امام خميني
+        latitude: "30.250"
+        longitude: "49.20"
+      }
+      {
+        name: بهبهان
+        latitude: "30.360"
+        longitude: "50.150"
+      }
+      {
+        name: رامهرمز
+        latitude: "31.170"
+        longitude: "49.360"
+      }
+      {
+        name: باغ ملك
+        latitude: "31.310"
+        longitude: "49.530"
+      }
+      {
+        name: هنديجان
+        latitude: "30.140"
+        longitude: "49.430"
+      }
+      {
+        name: لالي
+        latitude: "32.1947"
+        longitude: "49.538"
+      }
+      {
+        name: رامشیر
+        latitude: "30.5335"
+        longitude: "49.2425"
+      }
+      {
+        name: حمیدیه
+        latitude: "31.290"
+        longitude: "48.260"
+      }
+      {
+        name: ملاثانی
+        latitude: "31.356"
+        longitude: "48.5310"
+      }
+      {
+        name: شادگان
+        latitude: "30.390"
+        longitude: "48.400"
+      }
+    ]
+  }
+  {
+    name: زنجان
+    cities:
+    [
+      {
+        name: زنجان
+        latitude: "36.400"
+        longitude: "48.290"
+      }
+      {
+        name: ابهر
+        latitude: "36.80"
+        longitude: "49.130"
+      }
+      {
+        name: خدابنده
+        latitude: "36.00"
+        longitude: "48.30"
+      }
+      {
+        name: ماهنشان
+        latitude: "36.4440"
+        longitude: "47.4022"
+      }
+      {
+        name: خرمدره
+        latitude: "36.1240"
+        longitude: "49.1147"
+      }
+      {
+        name: آب بر
+        latitude: "36.550"
+        longitude: "48.580"
+      }
+      {
+        name: قيدار
+        latitude: "36.717"
+        longitude: "48.3528"
+      }
+    ]
+  }
+  {
+    name: سمنان
+    cities:
+    [
+      {
+        name: سمنان
+        latitude: "35.340"
+        longitude: "53.230"
+      }
+      {
+        name: شاهرود
+        latitude: "36.250"
+        longitude: "55.00"
+      }
+      {
+        name: گرمسار
+        latitude: "35.150"
+        longitude: "52.200"
+      }
+      {
+        name: ايوانكي
+        latitude: "35.210"
+        longitude: "52.40"
+      }
+      {
+        name: دامغان
+        latitude: "36.90"
+        longitude: "54.220"
+      }
+      {
+        name: بسطام
+        latitude: "36.293"
+        longitude: "54.5956"
+      }
+    ]
+  }
+  {
+    name: سيستان و بلوچستان
+    cities:
+    [
+      {
+        name: زاهدان
+        latitude: "29.320"
+        longitude: "60.540"
+      }
+      {
+        name: چابهار
+        latitude: "60.634"
+        longitude: "25.296"
+      }
+      {
+        name: خاش
+        latitude: "28.130"
+        longitude: "61.130"
+      }
+      {
+        name: سراوان
+        latitude: "27.2214"
+        longitude: "62.203"
+      }
+      {
+        name: زابل
+        latitude: "31.00"
+        longitude: "61.320"
+      }
+      {
+        name: سرباز
+        latitude: "26.400"
+        longitude: "61.200"
+      }
+      {
+        name: ايرانشهر
+        latitude: "27.150"
+        longitude: "60.410"
+      }
+      {
+        name: ميرجاوه
+        latitude: "29.10"
+        longitude: "61.300"
+      }
+    ]
+  }
+  {
+    name: فارس
+    cities:
+    [
+      {
+        name: شيراز
+        latitude: "29.360"
+        longitude: "52.310"
+      }
+      {
+        name: اقليد
+        latitude: "30.530"
+        longitude: "52.410"
+      }
+      {
+        name: داراب
+        latitude: "28.450"
+        longitude: "54.330"
+      }
+      {
+        name: فسا
+        latitude: "28.550"
+        longitude: "53.390"
+      }
+      {
+        name: مرودشت
+        latitude: "52.802"
+        longitude: "29.874"
+      }
+      {
+        name: آباده
+        latitude: "31.60"
+        longitude: "52.400"
+      }
+      {
+        name: كازرون
+        latitude: "29.350"
+        longitude: "51.400"
+      }
+      {
+        name: سپيدان
+        latitude: "30.1432"
+        longitude: "51.5938"
+      }
+      {
+        name: لار
+        latitude: "27.420"
+        longitude: "54.190"
+      }
+      {
+        name: فيروز آباد
+        latitude: "26.170"
+        longitude: "61.250"
+      }
+      {
+        name: جهرم
+        latitude: "28.290"
+        longitude: "53.320"
+      }
+      {
+        name: استهبان
+        latitude: "29.80"
+        longitude: "54.20"
+      }
+      {
+        name: لامرد
+        latitude: "27.300"
+        longitude: "53.200"
+      }
+      {
+        name: مهر
+        latitude: "27.330"
+        longitude: "52.530"
+      }
+      {
+        name: حاجي آباد
+        latitude: "33.3622"
+        longitude: "59.5957"
+      }
+      {
+        name: اردكان
+        latitude: "32.200"
+        longitude: "53.590"
+      }
+      {
+        name: صفاشهر
+        latitude: "30.3446"
+        longitude: "53.84"
+      }
+      {
+        name: ارسنجان
+        latitude: "29.550"
+        longitude: "53.1743"
+      }
+      {
+        name: سوريان
+        latitude: "30.2749"
+        longitude: "53.2648"
+      }
+      {
+        name: فراشبند
+        latitude: "28.530"
+        longitude: "52.70"
+      }
+      {
+        name: سروستان
+        latitude: "29.160"
+        longitude: "53.130"
+      }
+      {
+        name: زرقان
+        latitude: "29.4628"
+        longitude: "52.4329"
+      }
+      {
+        name: کوار
+        latitude: "29.1217"
+        longitude: "52.4124"
+      }
+      {
+        name: بوانات
+        latitude: "30.2915"
+        longitude: "53.3534"
+      }
+      {
+        name: خرامه
+        latitude: "53.321"
+        longitude: "29.501"
+      }
+      {
+        name: خنج
+        latitude: "27.530"
+        longitude: "53.260"
+      }
+    ]
+  }
+  {
+    name: قزوين
+    cities:
+    [
+      {
+        name: قزوين
+        latitude: "36.167"
+        longitude: "50.010"
+      }
+      {
+        name: تاكستان
+        latitude: "36.20"
+        longitude: "49.400"
+      }
+      {
+        name: آبيك
+        latitude: "36.30"
+        longitude: "50.310"
+      }
+      {
+        name: بوئين زهرا
+        latitude: "35.466"
+        longitude: "50.331"
+      }
+    ]
+  }
+  {
+    name: قم
+    cities:
+    [
+      {
+        name: قم
+        latitude: "34.380"
+        longitude: "50.530"
+      }
+    ]
+  }
+  {
+    name: کرج
+    cities:
+    [
+      {
+        name: طالقان
+        latitude: "36.100"
+        longitude: "50.445"
+      }
+      {
+        name: نظرآباد
+        latitude: "50.608"
+        longitude: "35.956"
+      }
+      {
+        name: اشتهارد
+        latitude: "35.430"
+        longitude: "50.220"
+      }
+      {
+        name: هشتگرد
+        latitude: "35.5742"
+        longitude: "50.4048"
+      }
+      {
+        name: كرج
+        latitude: "35.490"
+        longitude: "50.580"
+      }
+      {
+        name: ماهدشت
+        latitude: "50.813"
+        longitude: "35.727"
+      }
+    ]
+  }
+  {
+    name: كردستان
+    cities:
+    [
+      {
+        name: سنندج
+        latitude: "35.180"
+        longitude: "47.10"
+      }
+      {
+        name: بانه
+        latitude: "35.590"
+        longitude: "45.540"
+      }
+      {
+        name: بيجار
+        latitude: "35.520"
+        longitude: "47.390"
+      }
+      {
+        name: سقز
+        latitude: "36.140"
+        longitude: "46.150"
+      }
+      {
+        name: قروه
+        latitude: "35.90"
+        longitude: "47.480"
+      }
+      {
+        name: مريوان
+        latitude: "35.310"
+        longitude: "46.100"
+      }
+      {
+        name: صلوات آباد
+        latitude: "35.160"
+        longitude: "47.70"
+      }
+      {
+        name: حسن آباد
+        latitude: "35.222"
+        longitude: "51.1412"
+      }
+    ]
+  }
+  {
+    name: كرمان
+    cities:
+    [
+      {
+        name: كرمان
+        latitude: "30.160"
+        longitude: "57.40"
+      }
+      {
+        name: راور
+        latitude: "31.150"
+        longitude: "56.510"
+      }
+      {
+        name: انار
+        latitude: "30.550"
+        longitude: "55.150"
+      }
+      {
+        name: کوهبنان
+        latitude: "31.250"
+        longitude: "56.170"
+      }
+      {
+        name: رفسنجان
+        latitude: "30.250"
+        longitude: "56.00"
+      }
+      {
+        name: بافت
+        latitude: "29.120"
+        longitude: "56.360"
+      }
+      {
+        name: سيرجان
+        latitude: "29.270"
+        longitude: "55.400"
+      }
+      {
+        name: كهنوج
+        latitude: "27.5653"
+        longitude: "57.4155"
+      }
+      {
+        name: زرند
+        latitude: "30.500"
+        longitude: "56.350"
+      }
+      {
+        name: بم
+        latitude: "29.70"
+        longitude: "58.200"
+      }
+      {
+        name: جيرفت
+        latitude: "28.400"
+        longitude: "57.440"
+      }
+      {
+        name: بردسير
+        latitude: "29.5541"
+        longitude: "56.3427"
+      }
+    ]
+  }
+  {
+    name: كرمانشاه
+    cities:
+    [
+      {
+        name: كرمانشاه
+        latitude: "34.180"
+        longitude: "47.30"
+      }
+      {
+        name: اسلام آباد غرب
+        latitude: "46.528"
+        longitude: "34.111"
+      }
+      {
+        name: كنگاور
+        latitude: "34.290"
+        longitude: "47.550"
+      }
+      {
+        name: سنقر
+        latitude: "34.470"
+        longitude: "47.360"
+      }
+      {
+        name: قصر شيرين
+        latitude: "34.310"
+        longitude: "45.350"
+      }
+      {
+        name: هرسين
+        latitude: "34.160"
+        longitude: "47.350"
+      }
+      {
+        name: صحنه
+        latitude: "34.290"
+        longitude: "47.410"
+      }
+      {
+        name: پاوه
+        latitude: "35.30"
+        longitude: "46.220"
+      }
+      {
+        name: جوانرود
+        latitude: "34.4823"
+        longitude: "46.3023"
+      }
+    ]
+  }
+  {
+    name: كهكيلويه و بويراحمد
+    cities:
+    [
+      {
+        name: ياسوج
+        latitude: "30.390"
+        longitude: "51.350"
+      }
+      {
+        name: گچساران
+        latitude: "30.2128"
+        longitude: "50.4757"
+      }
+      {
+        name: دوگنبدان
+        latitude: "50.792"
+        longitude: "30.357"
+      }
+      {
+        name: سي سخت
+        latitude: "30.520"
+        longitude: "51.270"
+      }
+      {
+        name: دهدشت
+        latitude: "30.4741"
+        longitude: "50.3352"
+      }
+    ]
+  }
+  {
+    name: گلستان
+    cities:
+    [
+      {
+        name: گرگان
+        latitude: "36.500"
+        longitude: "54.250"
+      }
+      {
+        name: آق قلا
+        latitude: "37.10"
+        longitude: "54.2757"
+      }
+      {
+        name: گنبد كاووس
+        latitude: "37.150"
+        longitude: "55.100"
+      }
+      {
+        name: علي آباد كتول
+        latitude: "36.5429"
+        longitude: "54.5148"
+      }
+      {
+        name: كردكوی
+        latitude: "36.4748"
+        longitude: "54.655"
+      }
+      {
+        name: كلاله
+        latitude: "37.2251"
+        longitude: "55.2930"
+      }
+      {
+        name: آزاد شهر
+        latitude: "37.50"
+        longitude: "55.100"
+      }
+      {
+        name: راميان
+        latitude: "37.024"
+        longitude: "55.835"
+      }
+    ]
+  }
+  {
+    name: گيلان
+    cities:
+    [
+      {
+        name: رشت
+        latitude: "37.160"
+        longitude: "49.350"
+      }
+      {
+        name: منجيل
+        latitude: "36.440"
+        longitude: "49.250"
+      }
+      {
+        name: لنگرود
+        latitude: "37.120"
+        longitude: "50.90"
+      }
+      {
+        name: تالش
+        latitude: "37.484"
+        longitude: "48.5428"
+      }
+      {
+        name: آستارا
+        latitude: "38.2518"
+        longitude: "48.5221"
+      }
+      {
+        name: ماسوله
+        latitude: "48.99"
+        longitude: "37.156"
+      }
+      {
+        name: رودبار
+        latitude: "36.4920"
+        longitude: "49.2533"
+      }
+      {
+        name: فومن
+        latitude: "37.150"
+        longitude: "49.190"
+      }
+      {
+        name: صومعه سرا
+        latitude: "37.180"
+        longitude: "49.180"
+      }
+      {
+        name: هشتپر
+        latitude: "48.907"
+        longitude: "37.797"
+      }
+      {
+        name: ماسال
+        latitude: "37.2249"
+        longitude: "49.633"
+      }
+      {
+        name: شفت
+        latitude: "37.90"
+        longitude: "49.240"
+      }
+      {
+        name: املش
+        latitude: "37.520"
+        longitude: "50.1114"
+      }
+      {
+        name: لاهیجان
+        latitude: "37.130"
+        longitude: "50.00"
+      }
+    ]
+  }
+  {
+    name: لرستان
+    cities:
+    [
+      {
+        name: خرم آباد
+        latitude: "33.290"
+        longitude: "48.210"
+      }
+      {
+        name: ماهشهر
+        latitude: "49.18"
+        longitude: "30.546"
+      }
+      {
+        name: دزفول
+        latitude: "32.2255"
+        longitude: "48.2411"
+      }
+      {
+        name: بروجرد
+        latitude: "33.550"
+        longitude: "48.480"
+      }
+      {
+        name: دورود
+        latitude: "33.2940"
+        longitude: "49.425"
+      }
+      {
+        name: اليگودرز
+        latitude: "33.230"
+        longitude: "49.420"
+      }
+      {
+        name: ازنا
+        latitude: "33.2713"
+        longitude: "49.279"
+      }
+      {
+        name: نور آباد
+        latitude: "47.972"
+        longitude: "34.074"
+      }
+      {
+        name: كوهدشت
+        latitude: "33.320"
+        longitude: "47.360"
+      }
+      {
+        name: الشتر
+        latitude: "33.522"
+        longitude: "48.1546"
+      }
+    ]
+  }
+  {
+    name: مازندران
+    cities:
+    [
+      {
+        name: ساري
+        latitude: "36.330"
+        longitude: "53.30"
+      }
+      {
+        name: آمل
+        latitude: "36.280"
+        longitude: "52.220"
+      }
+      {
+        name: بابل
+        latitude: "36.330"
+        longitude: "52.410"
+      }
+      {
+        name: بابلسر
+        latitude: "36.420"
+        longitude: "52.390"
+      }
+      {
+        name: بهشهر
+        latitude: "36.420"
+        longitude: "53.330"
+      }
+      {
+        name: تنكابن
+        latitude: "36.490"
+        longitude: "50.530"
+      }
+      {
+        name: جويبار
+        latitude: "36.380"
+        longitude: "52.550"
+      }
+      {
+        name: چالوس
+        latitude: "36.390"
+        longitude: "51.250"
+      }
+      {
+        name: رامسر
+        latitude: "37.5426"
+        longitude: "50.3944"
+      }
+      {
+        name: قائم شهر
+        latitude: "52.859"
+        longitude: "36.466"
+      }
+      {
+        name: نكا
+        latitude: "36.390"
+        longitude: "53.180"
+      }
+      {
+        name: نور
+        latitude: "36.3410"
+        longitude: "52.049"
+      }
+      {
+        name: بلده
+        latitude: "36.120"
+        longitude: "51.490"
+      }
+      {
+        name: نوشهر
+        latitude: "36.390"
+        longitude: "51.300"
+      }
+      {
+        name: محمود آباد
+        latitude: "52.278"
+        longitude: "36.634"
+      }
+    ]
+  }
+  {
+    name: مركزي
+    cities:
+    [
+      {
+        name: اراك
+        latitude: "34.50"
+        longitude: "49.410"
+      }
+      {
+        name: آشتيان
+        latitude: "34.320"
+        longitude: "50.00"
+      }
+      {
+        name: تفرش
+        latitude: "34.4139"
+        longitude: "50.055"
+      }
+      {
+        name: خمين
+        latitude: "33.380"
+        longitude: "50.40"
+      }
+      {
+        name: دليجان
+        latitude: "33.590"
+        longitude: "50.410"
+      }
+      {
+        name: ساوه
+        latitude: "35.117"
+        longitude: "50.2124"
+      }
+      {
+        name: محلات
+        latitude: "33.540"
+        longitude: "50.280"
+      }
+      {
+        name: شازند
+        latitude: "33.5616"
+        longitude: "49.250"
+      }
+    ]
+  }
+  {
+    name: هرمزگان
+    cities:
+    [
+      {
+        name: بندرعباس
+        latitude: "56.266"
+        longitude: "27.18"
+      }
+      {
+        name: قشم
+        latitude: "26.580"
+        longitude: "56.170"
+      }
+      {
+        name: كيش
+        latitude: "26.320"
+        longitude: "53.580"
+      }
+      {
+        name: بندر لنگه
+        latitude: "26.340"
+        longitude: "54.520"
+      }
+      {
+        name: بستك
+        latitude: "27.160"
+        longitude: "54.260"
+      }
+      {
+        name: حاجي آباد
+        latitude: "33.3622"
+        longitude: "59.5957"
+      }
+      {
+        name: دهبارز
+        latitude: "27.2540"
+        longitude: "57.126"
+      }
+      {
+        name: ميناب
+        latitude: "27.70"
+        longitude: "57.60"
+      }
+      {
+        name: بندر جاسك
+        latitude: "25.3839"
+        longitude: "57.4624"
+      }
+      {
+        name: بندر خمیر
+        latitude: "26.570"
+        longitude: "55.350"
+      }
+      {
+        name: قشم
+        latitude: "26.580"
+        longitude: "56.170"
+      }
+    ]
+  }
+  {
+    name: همدان
+    cities:
+    [
+      {
+        name: همدان
+        latitude: "34.470"
+        longitude: "48.300"
+      }
+      {
+        name: ملاير
+        latitude: "34.180"
+        longitude: "48.490"
+      }
+      {
+        name: نهاوند
+        latitude: "34.130"
+        longitude: "48.210"
+      }
+      {
+        name: رزن
+        latitude: "49.033"
+        longitude: "35.39"
+      }
+      {
+        name: اسدآباد
+        latitude: "48.123"
+        longitude: "34.783"
+      }
+      {
+        name: بهار
+        latitude: "34.5425"
+        longitude: "48.2622"
+      }
+    ]
+  }
+  {
+    name: يزد
+    cities:
+    [
+      {
+        name: يزد
+        latitude: "31.530"
+        longitude: "54.210"
+      }
+      {
+        name: تفت
+        latitude: "31.450"
+        longitude: "54.120"
+      }
+      {
+        name: اردكان
+        latitude: "32.200"
+        longitude: "53.590"
+      }
+      {
+        name: ابركوه
+        latitude: "31.741"
+        longitude: "53.1652"
+      }
+      {
+        name: ميبد
+        latitude: "32.140"
+        longitude: "54.10"
+      }
+      {
+        name: طبس
+        latitude: "33.370"
+        longitude: "56.540"
+      }
+      {
+        name: بافق
+        latitude: "31.360"
+        longitude: "55.240"
+      }
+      {
+        name: مهريز
+        latitude: "31.359"
+        longitude: "54.2520"
+      }
+      {
+        name: اشكذر
+        latitude: "31.5938"
+        longitude: "54.1220"
+      }
+      {
+        name: هرات
+        latitude: "30.40"
+        longitude: "54.220"
+      }
+      {
+        name: خضرآباد
+        latitude: "53.953"
+        longitude: "31.866"
+      }
+      {
+        name: زارچ
+        latitude: "54.26"
+        longitude: "31.979"
+      }
+    ]
+  }
+]
